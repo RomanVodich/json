@@ -1,1 +1,12 @@
-
+{
+  "Bug report structure":[
+"ID/name",
+"Description/summary",
+"Environment",
+"Console logs",
+"Source URL",
+"Visual proof",
+"Steps to reproduce",
+"Expected vs. actual results"
+  ]
+}
